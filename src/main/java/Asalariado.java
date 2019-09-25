@@ -27,6 +27,7 @@ public class Asalariado extends Trabajador {
         super.mostrarDatos();
         System.out.printf("Pagas %d \n", pagas);
         System.out.printf("Sueldo mes %d \n", sueldoMes);
+        System.out.println("Hola");
 
     }
 
